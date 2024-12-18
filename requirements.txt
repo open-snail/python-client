@@ -1,0 +1,3 @@
+
+# snailjob
+snail-job-python==0.0.2
